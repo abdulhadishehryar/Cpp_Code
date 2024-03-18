@@ -1,0 +1,3 @@
+﻿  Circumfrence of Circle.cpp
+D:\C++ VisualStudio\Circumfrence of Circle\Circumfrence of Circle\Circumfrence of Circle.cpp(6,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Circumfrence of Circle.vcxproj -> D:\C++ VisualStudio\Circumfrence of Circle\Circumfrence of Circle\x64\Debug\Circumfrence of Circle.exe

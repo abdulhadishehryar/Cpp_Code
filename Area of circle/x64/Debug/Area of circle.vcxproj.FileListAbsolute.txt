@@ -1,0 +1,2 @@
+E:\Area of circle\x64\Debug\Area of circle.exe
+D:\C++ VisualStudio\Area of circle\x64\Debug\Area of circle.exe
