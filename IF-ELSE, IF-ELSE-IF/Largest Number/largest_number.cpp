@@ -19,6 +19,8 @@ int main(){
     } else {
         cout << "There are two or more numbers with the same largest value." << endl;
     }
-    
+    cout<<"Enter any key to terminate program" ;
+    cin.ignore();
+    cin.get();
     return 0;
 }
