@@ -1,1 +1,0 @@
-D:\C++ VisualStudio\OddNuumbersSum\x64\Debug\OddNuumbersSum.exe

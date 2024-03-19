@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\C++ VisualStudio\NumberPattern\x64\Debug\NumberPattern.exe</FullPath>
+      <FullPath>D:\cpp_code\NumberPattern\x64\Debug\NumberPattern.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

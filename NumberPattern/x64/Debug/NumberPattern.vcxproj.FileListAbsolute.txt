@@ -1,1 +1,2 @@
 D:\C++ VisualStudio\NumberPattern\x64\Debug\NumberPattern.exe
+D:\cpp_code\NumberPattern\x64\Debug\NumberPattern.exe
