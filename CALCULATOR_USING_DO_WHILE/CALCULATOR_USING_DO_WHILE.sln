@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CALCULATOR_USING_DO_WHILE", "CALCULATOR_USING_DO_WHILE.vcxproj", "{BC12B46D-434F-4032-B4F1-5522208E1E53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC12B46D-434F-4032-B4F1-5522208E1E53}.Debug|x64.ActiveCfg = Debug|x64
+		{BC12B46D-434F-4032-B4F1-5522208E1E53}.Debug|x64.Build.0 = Debug|x64
+		{BC12B46D-434F-4032-B4F1-5522208E1E53}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC12B46D-434F-4032-B4F1-5522208E1E53}.Debug|x86.Build.0 = Debug|Win32
+		{BC12B46D-434F-4032-B4F1-5522208E1E53}.Release|x64.ActiveCfg = Release|x64
+		{BC12B46D-434F-4032-B4F1-5522208E1E53}.Release|x64.Build.0 = Release|x64
+		{BC12B46D-434F-4032-B4F1-5522208E1E53}.Release|x86.ActiveCfg = Release|Win32
+		{BC12B46D-434F-4032-B4F1-5522208E1E53}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {319807C2-23C2-43D4-84FC-F714A5695F68}
+	EndGlobalSection
+EndGlobal
