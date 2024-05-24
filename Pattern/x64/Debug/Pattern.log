@@ -1,3 +1,0 @@
-﻿  Pattern2.cpp
-Pattern2.obj : error LNK2005: main already defined in Pattern.obj
-D:\C++ VisualStudio\Pattern\x64\Debug\Pattern.exe : fatal error LNK1169: one or more multiply defined symbols found

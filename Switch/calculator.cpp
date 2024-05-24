@@ -8,13 +8,14 @@ int main() {
     cin >> num1;
     cout << "Enter number 2 for operation: ";
     cin >> num2;
-    cout << "Enter an operator (+, -, *, /): ";
+    cout << "Enter an operator  ";
     cin >> op;
 
     switch (op) {
         case '+':
             result = num1 + num2;
             break;
+            
         case '-':
             result = num1 - num2;
             break;

@@ -1,2 +1,0 @@
-D:\C++ VisualStudio\MultiplicationTable\x64\Debug\MultiplicationTable.exe
-D:\cpp_code\MultiplicationTable\x64\Debug\MultiplicationTable.exe

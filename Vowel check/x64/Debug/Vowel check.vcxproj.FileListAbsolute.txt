@@ -1,1 +1,0 @@
-D:\C++ VisualStudio\Vowel check\x64\Debug\Vowel check.exe

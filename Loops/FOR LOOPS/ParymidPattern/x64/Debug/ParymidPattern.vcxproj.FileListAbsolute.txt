@@ -1,0 +1,2 @@
+D:\C++ VisualStudio\ParymidPattern\x64\Debug\ParymidPattern.exe
+D:\cpp_code\ParymidPattern\x64\Debug\ParymidPattern.exe

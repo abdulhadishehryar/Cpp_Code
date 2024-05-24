@@ -1,0 +1,3 @@
+﻿  Shape_area_calculator.cpp
+D:\cpp_code\Shape_area_calculator\Shape_area_calculator.cpp(14,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Shape_area_calculator.vcxproj -> D:\cpp_code\Shape_area_calculator\x64\Debug\Shape_area_calculator.exe
